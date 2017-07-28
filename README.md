@@ -1,6 +1,6 @@
 Merhabalar ,
 
-Codeigneter Alt Yapılı Dizin Scripti. (Yönetim Panelli)
+Codeigniter Alt Yapılı Dizin Scripti. (Yönetim Panelli)
 
 <b>Yönetim Paneli Özellikleri ;</b>
 
